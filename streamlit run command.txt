@@ -1,0 +1,5 @@
+streamlit run "/Users/virendramac/Desktop/Heart and Diabetes/multiple disease pred.py"
+
+streamlit run "/Users/virendramac/Desktop/Heart and Diabetes/multiple disease pred diabetes.py"
+
+https://diseasepredictionml.herokuapp.com/
